@@ -1,6 +1,7 @@
 # SET COVER PROBLEM
 Set cover problem is an example of a mathematic optimization problem.
-(more about the problem: en.wikipedia.org/wiki/Set_cover_problem)
+
+(More about the problem: en.wikipedia.org/wiki/Set_cover_problem)
 
 The program allows to solve this problem using one of these three methods:
 1. Exact algorithm
@@ -11,7 +12,8 @@ Some detailed information about the program in Polish can be found below.
 
 # POKRYCIE ZBIORU 
 Pokrycie zbioru to przykład problemu optymalizacyjnego. 
-(więcej na temat pokrycia zbioru: pl.wikipedia.org/wiki/Pokrycie_zbioru)
+
+(Więcej na temat pokrycia zbioru: pl.wikipedia.org/wiki/Pokrycie_zbioru)
 
 Program umożliwa rozwiązanie tego problemu trzema sposobami:
 1. Poprzez algorytm dokładny
