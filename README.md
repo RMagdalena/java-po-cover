@@ -1,7 +1,26 @@
-# POKRYCIE ZBIORU (ang. set cover problem)
+# SET COVER PROBLEM
+Set cover problem is an example of a mathematic optimization problem.
+(more about the problem: en.wikipedia.org/wiki/Set_cover_problem)
+
+The program allows to solve this problem using one of these three methods:
+1 Exact algorithm
+2 Naive heuristics
+3 Greedy heuristics
+
+Some detailed information about the program in Polish can be found below.
+
+# POKRYCIE ZBIORU 
+Pokrycie zbioru to przykład problemu optymalizacyjnego. 
+(więcej na temat pokrycia zbioru: pl.wikipedia.org/wiki/Pokrycie_zbioru)
+
+Program umożliwa rozwiązanie tego problemu trzema sposobami:
+1. Poprzez algorytm dokładny
+2. Poprzez heurystykę naiwną
+3. Poprzez heurystykę zachłanną.
+
 
 ## OPIS PROGRAMU
-Pokrycie zbioru to przykład problemu optymalizacyjnego .
+Pokrycie zbioru to przykład problemu optymalizacyjnego.
 
 Instancją problemu jest zbiór Z i rodzina zbiorów R, 
 numerowanych kolejnymi liczbami całkowitymi od 1.
